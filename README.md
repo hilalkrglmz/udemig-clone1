@@ -4,7 +4,7 @@ Udemig sitesinin benzeri bir site çalışmasıdır.
 
 <h2> Kullanılan Teknolojiler </h2>
 
-HTML, CSS ve SCSS üzerinden geliştirildi.
+HTML ve CSS üzerinden geliştirildi.
 
 <h2> Ekran Görüntüsü </h2>
 
